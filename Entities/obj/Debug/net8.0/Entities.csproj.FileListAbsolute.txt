@@ -1,0 +1,11 @@
+C:\Users\akifk\Downloads\Tobeto.NET4A-0338257ec489c2096f592ca429301cfafe5c9ecc\Tobeto.NET4A-0338257ec489c2096f592ca429301cfafe5c9ecc\Entities\bin\Debug\net8.0\Entities.deps.json
+C:\Users\akifk\Downloads\Tobeto.NET4A-0338257ec489c2096f592ca429301cfafe5c9ecc\Tobeto.NET4A-0338257ec489c2096f592ca429301cfafe5c9ecc\Entities\bin\Debug\net8.0\Entities.dll
+C:\Users\akifk\Downloads\Tobeto.NET4A-0338257ec489c2096f592ca429301cfafe5c9ecc\Tobeto.NET4A-0338257ec489c2096f592ca429301cfafe5c9ecc\Entities\bin\Debug\net8.0\Entities.pdb
+C:\Users\akifk\Downloads\Tobeto.NET4A-0338257ec489c2096f592ca429301cfafe5c9ecc\Tobeto.NET4A-0338257ec489c2096f592ca429301cfafe5c9ecc\Entities\obj\Debug\net8.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akifk\Downloads\Tobeto.NET4A-0338257ec489c2096f592ca429301cfafe5c9ecc\Tobeto.NET4A-0338257ec489c2096f592ca429301cfafe5c9ecc\Entities\obj\Debug\net8.0\Entities.AssemblyInfoInputs.cache
+C:\Users\akifk\Downloads\Tobeto.NET4A-0338257ec489c2096f592ca429301cfafe5c9ecc\Tobeto.NET4A-0338257ec489c2096f592ca429301cfafe5c9ecc\Entities\obj\Debug\net8.0\Entities.AssemblyInfo.cs
+C:\Users\akifk\Downloads\Tobeto.NET4A-0338257ec489c2096f592ca429301cfafe5c9ecc\Tobeto.NET4A-0338257ec489c2096f592ca429301cfafe5c9ecc\Entities\obj\Debug\net8.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\akifk\Downloads\Tobeto.NET4A-0338257ec489c2096f592ca429301cfafe5c9ecc\Tobeto.NET4A-0338257ec489c2096f592ca429301cfafe5c9ecc\Entities\obj\Debug\net8.0\Entities.dll
+C:\Users\akifk\Downloads\Tobeto.NET4A-0338257ec489c2096f592ca429301cfafe5c9ecc\Tobeto.NET4A-0338257ec489c2096f592ca429301cfafe5c9ecc\Entities\obj\Debug\net8.0\refint\Entities.dll
+C:\Users\akifk\Downloads\Tobeto.NET4A-0338257ec489c2096f592ca429301cfafe5c9ecc\Tobeto.NET4A-0338257ec489c2096f592ca429301cfafe5c9ecc\Entities\obj\Debug\net8.0\Entities.pdb
+C:\Users\akifk\Downloads\Tobeto.NET4A-0338257ec489c2096f592ca429301cfafe5c9ecc\Tobeto.NET4A-0338257ec489c2096f592ca429301cfafe5c9ecc\Entities\obj\Debug\net8.0\ref\Entities.dll

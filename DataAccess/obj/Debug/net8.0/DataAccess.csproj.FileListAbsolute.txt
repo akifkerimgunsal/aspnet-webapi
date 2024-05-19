@@ -1,0 +1,17 @@
+C:\Users\akifk\Downloads\Tobeto.NET4A-0338257ec489c2096f592ca429301cfafe5c9ecc\Tobeto.NET4A-0338257ec489c2096f592ca429301cfafe5c9ecc\DataAccess\bin\Debug\net8.0\DataAccess.deps.json
+C:\Users\akifk\Downloads\Tobeto.NET4A-0338257ec489c2096f592ca429301cfafe5c9ecc\Tobeto.NET4A-0338257ec489c2096f592ca429301cfafe5c9ecc\DataAccess\bin\Debug\net8.0\DataAccess.runtimeconfig.json
+C:\Users\akifk\Downloads\Tobeto.NET4A-0338257ec489c2096f592ca429301cfafe5c9ecc\Tobeto.NET4A-0338257ec489c2096f592ca429301cfafe5c9ecc\DataAccess\bin\Debug\net8.0\DataAccess.dll
+C:\Users\akifk\Downloads\Tobeto.NET4A-0338257ec489c2096f592ca429301cfafe5c9ecc\Tobeto.NET4A-0338257ec489c2096f592ca429301cfafe5c9ecc\DataAccess\bin\Debug\net8.0\DataAccess.pdb
+C:\Users\akifk\Downloads\Tobeto.NET4A-0338257ec489c2096f592ca429301cfafe5c9ecc\Tobeto.NET4A-0338257ec489c2096f592ca429301cfafe5c9ecc\DataAccess\bin\Debug\net8.0\Entities.dll
+C:\Users\akifk\Downloads\Tobeto.NET4A-0338257ec489c2096f592ca429301cfafe5c9ecc\Tobeto.NET4A-0338257ec489c2096f592ca429301cfafe5c9ecc\DataAccess\bin\Debug\net8.0\Entities.pdb
+C:\Users\akifk\Downloads\Tobeto.NET4A-0338257ec489c2096f592ca429301cfafe5c9ecc\Tobeto.NET4A-0338257ec489c2096f592ca429301cfafe5c9ecc\DataAccess\obj\Debug\net8.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\akifk\Downloads\Tobeto.NET4A-0338257ec489c2096f592ca429301cfafe5c9ecc\Tobeto.NET4A-0338257ec489c2096f592ca429301cfafe5c9ecc\DataAccess\obj\Debug\net8.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akifk\Downloads\Tobeto.NET4A-0338257ec489c2096f592ca429301cfafe5c9ecc\Tobeto.NET4A-0338257ec489c2096f592ca429301cfafe5c9ecc\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\akifk\Downloads\Tobeto.NET4A-0338257ec489c2096f592ca429301cfafe5c9ecc\Tobeto.NET4A-0338257ec489c2096f592ca429301cfafe5c9ecc\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfo.cs
+C:\Users\akifk\Downloads\Tobeto.NET4A-0338257ec489c2096f592ca429301cfafe5c9ecc\Tobeto.NET4A-0338257ec489c2096f592ca429301cfafe5c9ecc\DataAccess\obj\Debug\net8.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\akifk\Downloads\Tobeto.NET4A-0338257ec489c2096f592ca429301cfafe5c9ecc\Tobeto.NET4A-0338257ec489c2096f592ca429301cfafe5c9ecc\DataAccess\obj\Debug\net8.0\DataAccess.csproj.CopyComplete
+C:\Users\akifk\Downloads\Tobeto.NET4A-0338257ec489c2096f592ca429301cfafe5c9ecc\Tobeto.NET4A-0338257ec489c2096f592ca429301cfafe5c9ecc\DataAccess\obj\Debug\net8.0\DataAccess.dll
+C:\Users\akifk\Downloads\Tobeto.NET4A-0338257ec489c2096f592ca429301cfafe5c9ecc\Tobeto.NET4A-0338257ec489c2096f592ca429301cfafe5c9ecc\DataAccess\obj\Debug\net8.0\refint\DataAccess.dll
+C:\Users\akifk\Downloads\Tobeto.NET4A-0338257ec489c2096f592ca429301cfafe5c9ecc\Tobeto.NET4A-0338257ec489c2096f592ca429301cfafe5c9ecc\DataAccess\obj\Debug\net8.0\DataAccess.pdb
+C:\Users\akifk\Downloads\Tobeto.NET4A-0338257ec489c2096f592ca429301cfafe5c9ecc\Tobeto.NET4A-0338257ec489c2096f592ca429301cfafe5c9ecc\DataAccess\obj\Debug\net8.0\DataAccess.genruntimeconfig.cache
+C:\Users\akifk\Downloads\Tobeto.NET4A-0338257ec489c2096f592ca429301cfafe5c9ecc\Tobeto.NET4A-0338257ec489c2096f592ca429301cfafe5c9ecc\DataAccess\obj\Debug\net8.0\ref\DataAccess.dll
